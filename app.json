@@ -24,7 +24,7 @@
       "buildNumber": "1.39.2",
       "config": {
         "googleSignIn": {
-          "reservedClientId": "com.googleusercontent.apps.223233671218-v5meaa316pd8mgar3mgcvsmg3td7qnl6"
+          "reservedClientId": "XXX"
         }
       },
       "infoPlist": {
@@ -37,8 +37,8 @@
       "permissions": ["CAMERA", "VIBRATE"],
       "config": {
         "googleSignIn": {
-          "apiKey": "AIzaSyDmoH0YM6EXxjparli9yfzxWnglMIpJfZo",
-          "certificateHash": "4E:A2:49:B2:5A:58:1B:C4:FD:56:C9:5E:B7:21:C0:3C:93:6A:7C:09"
+          "apiKey": "XXX",
+          "certificateHash": "XXX"
         }
       }
     },
@@ -49,7 +49,7 @@
           "config": {
             "organization": "theta-tau",
             "project": "kappa",
-            "authToken": "dcdc8da9de2a4adcb95e47d3142ed313ed531908dc89407bbc07a619e07fa5df"
+            "authToken": "XXX"
           }
         }
       ]
